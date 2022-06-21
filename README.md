@@ -1,14 +1,12 @@
 # Revieuw Register
 [![Automated Testing](https://github.com/Huwelijksplanner/ReviewRegister/actions/workflows/tests.yml/badge.svg)](https://github.com/Huwelijksplanner/ReviewRegister/actions/workflows/tests.yml)
 
-A example implementation of a Common Gateway configuration for generating an API. This example has been specifically setup to use as a temple, read more about that under [Using this repositry as a temple](#Using this repositry as a temple).
+The review registers provides an API for reviews conform [https://schema.org/Review](https://schema.org/Review) and business logic for the calculation of review scores. It is aimed at providing reviews for the google/bing store and product review mechanism. 
 
 - [API Defintion (redocly)](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/Huwelijksplanner/ReviewRegister/main/OAS.yaml&nocors)
 - [API Defintion (file)](https://github.com/Huwelijksplanner/ReviewRegister/blob/main/OAS.yaml)
 - [Publiccode](https://github.com/CHuwelijksplanner/ReviewRegister/blob/main/publiccode.yaml)
 - [Stoplight.io](https://conduction.stoplight.io/docs/huwelijksplanner/iuyk4p44gj610-reviewregistratie)
-
-## About Review Register
 
 ## Running the API locally
 
