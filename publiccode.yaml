@@ -1,8 +1,8 @@
 publiccodeYmlVersion: "0.1"
 
-name: "Pet Store"
-url: "https://github.com/CommonGateway/PetStore"
-releaseDate: "2022-06-04"
+name: "Review Register"
+url: "https://github.com/Huwelijksplanner/ReviewRegister"
+releaseDate: "2022-06-21"
 
 softwareType: configurationFiles
 
@@ -24,15 +24,15 @@ developmentStatus: beta
 
 description:
   nl:
-    shortDescription: "Een API voor data rondom producten voor gemeenten."
-    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/CommonGateway/PetStore/main/OAS.yaml&nocors'
-    apiDocumentation: 'https://raw.githubusercontent.com/CommonGateway/PetStore/main/OAS.yaml'
-    # testDataLocation: 'https://raw.githubusercontent.com/CommonGateway/PetStore/main/data/data.json'
+    shortDescription: "Een API voorhet opslaan en berekenen van reviews."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/Huwelijksplanner/ReviewRegister/main/OAS.yaml&nocors'
+    apiDocumentation: 'https://raw.githubusercontent.com/Huwelijksplanner/ReviewRegister/main/OAS.yaml'
+    # testDataLocation: 'https://raw.githubusercontent.com/Huwelijksplanner/ReviewRegister/main/data/data.json'
   en:
-    shortDescription: "An API for data around products for municipalities."
-    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/CommonGateway/pdc-component/main/OAS.yaml&nocors'
-    apiDocumentation: 'https://raw.githubusercontent.com/CommonGateway/PetStore/main/OAS.yaml'
-    # testDataLocation: 'https://raw.githubusercontent.com/CommonGateway/PetStore/main/data/data.json'
+    shortDescription: "An API forsaving and calculating reviews."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/Huwelijksplanner/ReviewRegister/main/OAS.yaml&nocors'
+    apiDocumentation: 'https://raw.githubusercontent.com/Huwelijksplanner/ReviewRegister/main/OAS.yaml'
+    # testDataLocation: 'https://raw.githubusercontent.com/Huwelijksplanner/ReviewRegister/main/data/data.json'
 
 dependsOn:
   open:
